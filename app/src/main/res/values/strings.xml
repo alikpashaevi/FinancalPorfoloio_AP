@@ -1,0 +1,9 @@
+<resources>
+    <string name="ap_vi_app_name">Financial Portfolio - A. Pashaevi</string>
+    <string name="ap_vi_label_income">Monthly Income</string>
+    <string name="ap_vi_label_expenses">Monthly Expenses</string>
+    <string name="ap_vi_btn_save">Save Data</string>
+    <string name="ap_vi_profile_info">Alikhan Pashaevi</string>
+    <string name="ap_vi_hello_blank_fragment">Hello Blank Fragment</string>
+    <string name="ap_vi_user_name">Alikhan Pashaevi</string>
+</resources>
